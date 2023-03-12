@@ -4,3 +4,4 @@ interface BtnProps {
   func: React.MouseEventHandler<HTMLButtonElement>;
 }
 export default BtnProps;
+
